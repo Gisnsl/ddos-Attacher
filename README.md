@@ -32,9 +32,14 @@ python Ddos_Attcher.py
 ---
 
 ## 🔗 تابعني على Telegram  
+## 🔗 Follow me on Telegram  
 [**Join My Channel**](https://t.me/+f6t2_zdHrFRjYWE8)  
 
-![Telegram](https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg)  
+<p align="center">
+  <a href="https://t.me/+f6t2_zdHrFRjYWE8">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="100" height="100">
+  </a>
+</p>
 
 👨‍💻 **Developer:** [@maho_s9](https://t.me/maho_s9)  
 
@@ -79,7 +84,11 @@ python Ddos_Attcher.py
 ## 🔗 Follow me on Telegram  
 [**Join My Channel**](https://t.me/+f6t2_zdHrFRjYWE8)  
 
-![Telegram](https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg)  
+<p align="center">
+  <a href="https://t.me/+f6t2_zdHrFRjYWE8">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="100" height="100">
+  </a>
+</p>
 
 👨‍💻 **Developer:** [@maho_s9](https://t.me/maho_s9)  
 
