@@ -13,7 +13,7 @@ Best Ddos Attacher In the world
 
 ## 💻 كيفية التشغيل  
 ```bash
-python Ddos_Attcher.py
+python Ddos_Attcher(VIP).py
 ```
 
 ---
@@ -63,7 +63,7 @@ If the server is:
 
 ## 💻 How to Run  
 ```bash
-python Ddos_Attcher.py
+python Ddos_Attcher(VIP).py
 ```
 
 ---
